@@ -23,7 +23,7 @@ DSC achieves **state-of-the-art performance** on:
 
 ## Pipline
 The whole learning pipline of our model:
-<img width="882" height="481" alt="截屏2025-09-16 20 15 18" src="https://github.com/user-attachments/assets/2354c1e2-6fb4-44f8-a436-5188e7a07519" />
+<img width="1824" height="1028" alt="image" src="https://github.com/user-attachments/assets/e404ff6d-a890-4c4f-9cbe-dd257d222c43" />
 
 
 ## ⌚️ Results
